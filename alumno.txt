@@ -1,0 +1,4 @@
+Nombre: Aldahir
+Edad: 21
+Carrera: Informatica
+Matricula: 10056418
